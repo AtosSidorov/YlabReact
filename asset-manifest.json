@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AtosSidorov/YlabReact.git/static/css/main.7451ec94.css",
+    "main.js": "/AtosSidorov/YlabReact.git/static/js/main.991b57d2.js",
+    "static/js/453.2401611d.chunk.js": "/AtosSidorov/YlabReact.git/static/js/453.2401611d.chunk.js",
+    "index.html": "/AtosSidorov/YlabReact.git/index.html",
+    "main.7451ec94.css.map": "/AtosSidorov/YlabReact.git/static/css/main.7451ec94.css.map",
+    "main.991b57d2.js.map": "/AtosSidorov/YlabReact.git/static/js/main.991b57d2.js.map",
+    "453.2401611d.chunk.js.map": "/AtosSidorov/YlabReact.git/static/js/453.2401611d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7451ec94.css",
+    "static/js/main.991b57d2.js"
+  ]
+}
